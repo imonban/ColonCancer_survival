@@ -1,8 +1,8 @@
 # ColonCancer_survival
 
-1. Use command conda create --name <env> --file requirements.txt to create the appropitate conda environment
+1. Use command conda create --name env_name --file requirements.txt to create the appropitate conda environment
 
-2. Activate env as: conda activate <env>
+2. Activate env as: conda activate env_name
 
 3. Run the test as: 
 python main.py --testdata test_file.csv --flag Test
